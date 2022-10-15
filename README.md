@@ -44,7 +44,8 @@ Here in this project, we will be demonstrating the transmission of ‘strings’
 <br>
 <strong>Block Diagram of Data Flow in Li-Fi
 <br>
-![image](https://user-images.githubusercontent.com/86926101/195999269-40231c87-4750-48e2-9f21-a64aff8f8c3d.png)
+![image](https://user-images.githubusercontent.com/86926101/196000260-111ad5fc-34b1-4472-bad7-da2d9e044abe.png)
+
 <br>
 <strong>Circuit Diagram
 <br>
@@ -61,6 +62,7 @@ Here in this project, we will be demonstrating the transmission of ‘strings’
 ![circuit image'](https://user-images.githubusercontent.com/86926101/195999642-f4a13ca7-6fe8-47f6-9191-3ee629285af0.jpeg)
 <br><br>
  Output LCD Screen
+ <br>
 ![Output-image](https://user-images.githubusercontent.com/86926101/195999818-dede206e-f72d-4701-b4ab-7c18d735474e.png)
 <br>
 <u><strong>ADVANTAGES<u> 
