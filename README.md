@@ -43,8 +43,10 @@ Here in this project, we will be demonstrating the transmission of ‘strings’
 •	Data transmitted through the LED bulb of the transmitter circuit, is received by the LDR circuit and decoded. This decoded data is displayed on the LCD screen.
 <br>
 <strong>Block Diagram of Data Flow in Li-Fi
+ ![block diagram](https://user-images.githubusercontent.com/86926101/196000699-f35a007e-a923-4ce3-a921-b88823ab4e72.png)
+
 <br>
-![image](https://user-images.githubusercontent.com/86926101/196000260-111ad5fc-34b1-4472-bad7-da2d9e044abe.png)
+
 
 <br>
 <strong>Circuit Diagram
